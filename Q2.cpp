@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     int studentNumber = 2230313;
     
+
     cout << "Student Number : 0" << studentNumber << endl;
     
     // calculating the digit sum.
@@ -22,6 +23,6 @@ int main() {
     
     // Multiply by 3
     cout << "Multiplied by 3 : " << studentNumber * 3 << endl;
-    
+
     return 0;
 }
